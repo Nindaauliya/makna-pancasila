@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\.android\build-cache\3544e54bf15b2d22a57f8eb22ca66ed8abf56a06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\classes_abc4adcad39bd625f7d185081fbdaa9eaa7e9b45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\.android\build-cache\8e796a5bfdfcf7e73f355b046528e5591454e821\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\classes_4b8ef1f8e263a5a68dd02e0934772b3cf026dbdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\.android\build-cache\e91a62925cec5c504cf5b3b6e809c9645c56c0cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\classes_367dfbcce55e4abbbab066038425b02d12843da4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\.android\build-cache\80eb14649e3fb3cc8b722b50c80b2442a0c2a8f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\classes_3a88056910c675df04f030d20b9e5f78add7bf44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\.android\build-cache\bca201c0bd021cf5c2572acb73c489789af2cfe5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\classes_2de807ca6047f48775ef94f17467cdff7bd6f309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\.android\build-cache\2ee30808cb0d9bc72da9e0a28b5bc1c90b02011a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\classes_2918931bcd2e3b682f3dae1ce300cf68a2ca93fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\.android\build-cache\cf0ee92199fa1e511bae26ca995b714c06ccd873\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\classes_c09506ce1bb04f329d3f442f0fc9a4f60b0598d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\.android\build-cache\9d89990195ed1deef25d94a24b6ead2bba47705b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\classes_a04721e0e93c363ef0235f32da40d0fd99d10e4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\.android\build-cache\1482516f1ab9b730a4921cfd733450ffc4691385\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\classes_9bf6e959e0e8ebd3ff19ac70450c2bd4cd7e0e21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\.android\build-cache\58436b4edf81c11162b4a3d1c539cce558dff0dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\classes_436e629a276c7bddb07c1a169e8efad7a3812620.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\.android\build-cache\12d294f0835dbf1c42b4cf0a9f6e598df21fdeb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\classes_df0f4b3d1f5002db92c815acad81966e11c2166f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_32f635eb1ca0d41e7b7821517922b77d5accc3f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ninda Auliya\.android\build-cache\70e4506af41cd4a55741dcc4f24e51eb61aa8d58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Dila\Makna-Pancasila-master\Makna-Pancasila-master\app\build\intermediates\pre-dexed\debug\classes_a862e8de456ba5c23b03c747e4df3983cfc2fbe8.jar" />
+    </item>
+
+</items>
